@@ -30,12 +30,12 @@ EOF
 # Populate submissions.txt with sample student records
 cat << EOF > "$subdir/assets/submissions.txt"
 student, assignment, submission status
-Ian, Shell Navigation, not submitted
-Totine, Git, submitted
-Ishema, Shell Navigation, not submitted
-Elvis, Shell Basics, submitted
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Elvis, Shell Navigation, not submitted
 Titus, Shell Navigation, not submitted
-Teta, Shell Navigation, not submitted
 Sibo, Shell Navigation, not submitted
 Kagaba, Shell Navigation, not submitted
 Leger, Shell Navigation, submitted
